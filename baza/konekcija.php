@@ -2,7 +2,7 @@
 $server = 'localhost';
 $user = 'root';
 $pass = '';
-$baza = 'macke';
+$baza = 'cat';
 
 $con = new mysqli($server, $user, $pass, $baza);
 

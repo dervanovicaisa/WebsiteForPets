@@ -1,0 +1,21 @@
+.containerProfil {
+    width: 70%;
+    height: 500px;
+    background-color: white;
+    margin-top: 10%;
+    margin-left: 15%;
+    border-radius: 2%;
+}
+
+.desnaStrana {
+    width: 25%;
+    height: 60%;
+    margin-left: 38%;
+    padding-top: 1%;
+    font-size: 111%;
+}
+
+.desnaStrana .btn {
+    background-color: #FCF0BD;
+    margin-left: 28%;
+}

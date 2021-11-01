@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6a9459-f634-4d87-9652-1de08bdbcb40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1iV7gdL1rPgbqF1DAhbtXiOSY9A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\instalation xampp\htdocs\htdocs\CatWebsite" />
+      <recent name="C:\xampp\instalation xampp\htdocs\htdocs\CatWebsite\administrator" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6a9459-f634-4d87-9652-1de08bdbcb40" name="Default Changelist" comment="" />
+      <created>1601981018254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601981018254</updated>
+      <workItem from="1601981019941" duration="25280000" />
+      <workItem from="1602059976986" duration="34229000" />
+      <workItem from="1602146028717" duration="13860000" />
+      <workItem from="1602168654773" duration="7692000" />
+      <workItem from="1602253289269" duration="20889000" />
+      <workItem from="1602364120844" duration="173000" />
+      <workItem from="1602447078907" duration="1067000" />
+      <workItem from="1602598907589" duration="2023000" />
+      <workItem from="1602602770497" duration="8458000" />
+      <workItem from="1602660968093" duration="2689000" />
+      <workItem from="1602690139259" duration="249000" />
+      <workItem from="1602773430730" duration="867000" />
+      <workItem from="1602783241005" duration="2407000" />
+      <workItem from="1602853224057" duration="5026000" />
+      <workItem from="1602927765333" duration="11951000" />
+      <workItem from="1603111605792" duration="12325000" />
+      <workItem from="1603198071372" duration="4402000" />
+      <workItem from="1603227191273" duration="4184000" />
+      <workItem from="1603264289886" duration="9923000" />
+      <workItem from="1603295091270" duration="11177000" />
+      <workItem from="1603381962224" duration="2812000" />
+      <workItem from="1603478777273" duration="6003000" />
+      <workItem from="1603711551780" duration="266000" />
+      <workItem from="1603721963507" duration="681000" />
+      <workItem from="1603806620470" duration="3174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1601987570350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1601987570350" />
+    <state x="441" y="87" key="NewPhpClassDialog" timestamp="1602616556465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1602616556465" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1603116914164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603116914164" />
+    <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1601989457394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1601989457394" />
+    <state x="526" y="136" key="refactoring.ChangeSignatureDialog" timestamp="1602070360486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="136" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1602070360486" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1602861882834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602861882834" />
+  </component>
+</project>

@@ -1,0 +1,44 @@
+.containerProfil {
+    width: 70%;
+    height: 500px;
+    background-color: white;
+    margin-top: 10%;
+    margin-left: 15%;
+    border-radius: 2%;
+}
+
+.slk img {
+    width: 86px;
+    height: 86px;
+    margin-top: 4%;
+    margin-left: 4%;
+    border: dimgray 1px solid;
+}
+.meniUredi{
+    margin-left: 82%;
+    margin-top: -109%;
+    background-color: white;
+}
+.verticalLine {
+    border-right: 1px solid black;
+    height: 500px;
+    margin-top: -39%;
+    margin-right: 60%;
+}
+.desnaStrana {
+    width: 22%;
+    height: 60%;
+    margin-left: 54%;
+    margin-top: -41%;
+    font-size: 111%;
+}
+.desnaStrana .btn {
+    background-color: #FCF0BD;
+    margin-left: 28%;
+}
+.lijevaStrana {
+    width: 14%;
+    height: 40%;
+    margin-top: 5%;
+    margin-left: 4%;
+}
